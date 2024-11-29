@@ -75,7 +75,7 @@ background-color: gray;
 <th> Lesson 1&2 </th>
 <tr>
 <td> This picture shows a very basic use of internal CSS.</td>
-<td><img src="LESSON 1AND2.png" height="450" width="800"  alt="picture"></td>
+<td><img src="LESSON 1AND2.png" height="450" width="1000"  alt="picture"></td>
 </tr>
 </tr>
 </table>
@@ -84,7 +84,7 @@ background-color: gray;
 <th> Lesson 3 </th>
 <tr>
 <td> This picture shows a very basic use of selectors.</td>
-<td><img src="LESSON3.png" height="450" width="800"  alt="picture"></td>
+<td><img src="LESSON3.png" height="450" width="1000"  alt="picture"></td>
 </tr>
 </tr>
 </table>
@@ -95,7 +95,7 @@ background-color: gray;
 <th> Lesson 4 </th>
 <tr>
 <td> This picture shows a very basic use of classes and the div tag.</td>
-<td><img src="LESSON4.png" height="450" width="800"  alt="picture"></td>
+<td><img src="LESSON4.png" height="450" width="1000"  alt="picture"></td>
 </tr>
 </tr>
 </table>
@@ -106,7 +106,7 @@ background-color: gray;
 <th> Lesson 5 </th>
 <tr>
 <td> This picture shows a very basic use of grouping selectors as well as properties.</td>
-<td><img src="LESSON5.png" height="450" width="800"  alt="picture"></td>
+<td><img src="LESSON5.png" height="450" width="1000"  alt="picture"></td>
 </tr>
 </tr>
 </table>
@@ -117,7 +117,7 @@ background-color: gray;
 <th> Lesson 6 </th>
 <tr>
 <td> This picture shows a very basic use of font properties.</td>
-<td><img src="LESSON6.png" height="450" width="800"  alt="picture"></td>
+<td><img src="LESSON6.png" height="450" width="1000"  alt="picture"></td>
 </tr>
 </tr>
 </table>
@@ -128,7 +128,7 @@ background-color: gray;
 <th> Lesson 7 </th>
 <tr>
 <td> This picture shows a very basic use of formatting and positioning.</td>
-<td><img src="LESSON7.png" height="450" width="800"  alt="picture"></td>
+<td><img src="LESSON7.png" height="450" width="1000"  alt="picture"></td>
 </tr>
 </tr>
 </table>
