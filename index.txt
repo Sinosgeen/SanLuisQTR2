@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head> <title>SAN LUIS PORTFOLIO</title>
+ <link rel="stylesheet" href="styles.css"></head>
+<style>
+  .container {
+            width: 75%;
+            background-color: #cad5e6;
+            opacity: 0.9; 
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            float: right;
+            }
+</style>
+
+<style>
+th, td {
+  border-radius: 10px;
+}
+
+.Pages{
+  width: 20%;
+  margin: 20px auto;
+  opacity: 0.9999999; 
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+ float: left; 
+ border-width: thick;
+ border: 2px solid black;
+background-color: gray;
+}
+</style>
+
+<body style="color: black; background-color:#bf6d67; font-family: "Times New Roman", Times, serif;">
+
+<div class="container">
+<table style="font-size:60px" align="center" >
+<tr>
+<td><h1 style="border: 2px solid black; background-color: gray;"><u> The Second Quarter </u></h1></td>
+</tr>
+</table>
+
+<table style="font-size:35px; background-color: gray; text-align: center; border: 2px solid black;">
+<tr>
+<td>Welcome back! As you will see here, this is my new and improved full site for the second quarter!</td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black;">
+<tr>
+<td>Hello! As the first quarter closes, the second one arises! Yes, it is still me, Julianrei F. San Luis. I've gotten more into journaling and reading from the last time you saw me, I've also taken ICT a bit more seriously this quarter, and overall, I'm pretty happy as I learn more about myself. If you look at the bottom of the "pages" column, you may revisit my last portfolio! <br><br> I've finally turned 14 as well! Everyone cheer! (●'◡'●)</td>
+</tr>
+</table>
+<br><br><br>
+
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black;">
+<tr>
+<td><i>REFLECTION<i></td>
+</tr>
+<tr>
+<td> I'm placing this reflection here so that you guys can see it faster. This Second Quarter really taught me and helped me learn more about my endurance when it comes to coding. Months, weeks ago, I would stare at a blank notepad fearing what I'd need to do, but this quarter has shown me the magic of learning. I no longer fear coding for I have learned ways to make my life easier in doing so, I have found a passion for it for I am literally typing out what I want to create, and I am having fun. But of course, I'm still struggling with ICT due to my laziness in fully learning and committing. 
+<br>
+But i'm telling you, <b>I'm ready.</b></td>
+</tr>
+</table>
+<br><br>
+
+<P> Background is from <i>Half-Life ALyx.</i></p>
+
+</div>
+
+
+
+<div class="Pages"
+<table>
+<tr>
+<td><h1 align="center"><u> Pages </u></h1></td>
+</tr>
+<tr>
+<td align="center"><a href="Activities.html"><img src="ACTIVITIES.png" height="250" width="330" align="left" alt="lol"></a></td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table>
+<tr>
+<td align="center"><a href="Lessons.html"><img src="LESSONS.png" height="250" width="330" align="left" alt="lol"></td>
+</tr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<tr>
+<td align="center"><a href="https://sinosgeen.github.io/SanLuisJulianreigithub.io/"><img src="Back.png" height="250" width="330" align="left" alt="lol"></td>
+
+</tr>
+<tr>
+<td><p> <b>PLAY ME<b>
+<i> Life force | Ptasinski&Rj Pansin<i></p>
+<audio controls="play" src="LIFE.mp3" height="350" width="430" align="left" alt="lol"></audio></td>
+</tr>
+</table>
+<br>
+<br>
+</div>
+
+</body>
+</html>

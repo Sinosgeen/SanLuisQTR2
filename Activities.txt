@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head> <title>SAN LUIS PORTFOLIO</title>
+ <link rel="stylesheet" href="styles.css"></head>
+<style>
+  .container {
+            width: 75%;
+            background-color: #cad5e6;
+            opacity: 0.9; 
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            float: right;
+            }
+</style>
+
+<style>
+th, td {
+  border-radius: 10px;
+}
+
+.Pages{
+  width: 20%;
+  margin: 20px auto;
+  opacity: 0.9999999; 
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+ float: left; 
+ border-width: thick;
+ border: 2px solid black;
+background-color: gray;
+}
+</style>
+
+<body style="color: black; background-color:#bf6d67; font-family: "Times New Roman", Times, serif;">
+
+<div class="Pages"
+<table>
+<tr>
+<td><h1 align="center"><u> Pages </u></h1></td>
+</tr>
+<tr>
+<td align="center"><img src="ACTIVITIES.png" height="250" width="330" align="left" alt="lol"></td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center"><a href="Lessons.html"><img src="LESSONS.png" height="250" width="330" align="left" alt="lol"></td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center"><a href="index.html"><img src="Home.png" height="250" width="330" align="left" alt="lol"></td>
+</tr>
+<tr>
+<td><p> <b>PLAY ME<b>
+<i> 505 | Arctitc Monkeys<i></p>
+<audio controls="play" src="505.mp3" height="350" width="430" align="left" alt="lol"></audio></td>
+</tr>
+</table>
+
+</table>
+</div>
+
+<div class="container">
+<table style="font-size:60px" align="center" >
+<tr>
+<td><h1 style="border: 2px solid black; background-color: gray;"><u> Activities </u></h1></td>
+</tr>
+</table>
+
+<table style="font-size:35px; background-color: gray; text-align: center; border: 2px solid black;">
+<tr>
+<td>As you keep scrolling down, you will be able to reminisce all of the important activities and events!</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black;">
+<th> Teacher's day </th>
+<tr>
+<td> This picture shows us during our celebration of Teacher's Day. I thoroughly enjoyed this event as I was the mini-teacher of my favorite subject, AP! As you can see down there too, I sang. ^^</td>
+</tr>
+</tr>
+</table>
+<br><br>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black; float: right;">
+<tr>
+<td><img src="MINICHER.jpg" height="450" width="520"  alt="picture"></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black; float: left;">
+<tr>
+<td><video controls="play" src="SING.mp4" height="450" width="520"  alt="lol"></td>
+</tr>
+</table>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black; float: left;">
+<th> Historical Icon </th>
+<tr>
+<td> This picture shows me working with the arts department when we were working on our Historical Icon for AP month. ^^</td>
+<td><img src="IDOL.jpg" height="450" width="520" alt="picture"></td>
+</tr>
+</table>
+
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black;">
+<th> Booklandia </th>
+<tr>
+<td> In this final category, you can see my class, 9-Family, all in the cosplays of their characters for Booklandia! I dressed up as Sherlock Holmes and I am at the very back (thank God I'm tall). The other picture shows our two Booklandia representatives fighting for our class in their wonderful outfits! </td>
+</tr>
+</table>
+<br><br>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black; float:left;">
+<tr>
+<td><img src="BOOKLANDIA.jpg" height="450" width="520" alt="picture"></td>
+</tr>
+</table>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black; float:right;">
+<tr>
+<td><img src="BOOKLANDIA2.jpg" height="650" width="520" alt="picture"></td>
+</tr>
+</table>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black; float:right">
+<th> VPOP</th>
+<tr>
+<td> Oh, I'm sorry, I forgot about Vpop! Here, we were practicing for hours in the court any my class and I couldn't just wait to take a picture from how proud of ourselves we were! </td>
+</tr>
+</table>
+<br><br>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black; float:left;">
+<tr>
+<td><img src="family2.jpg" height="450" width="520" alt="picture"></td>
+</tr>
+</table>
+
+<table style="font-size:35px; background-color: gray;  border: 2px solid black; float: right;">
+<tr>
+<td><video controls="play" src="FAMILY1.mp4" height="450" width="520"  alt="lol"></td>
+</tr>
+</table>
+
+
+</div>
+
+
+
+</body>
+</html>
